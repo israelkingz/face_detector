@@ -30,3 +30,5 @@ For better experience, perform the installation in a virtual environment
 .. code-block:: text
 
     $ pip install opencv-python
+
+Happy Detection
